@@ -4,5 +4,16 @@
   "artist": "afafa",
   "author": "afa",
   "cover": "https://nhentai.net/g/552864/",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1738724667",
+      "groups": {
+        "a": [
+          "https://nhentai.net/g/552864/"
+        ]
+      }
+    }
+  }
 }

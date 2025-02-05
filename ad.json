@@ -18,7 +18,9 @@
       "volume": "1",
       "last_updated": "1738723329",
       "groups": {
-        "asdw": "https://nhentai.net/g/464173/"
+        "asdw": [
+          "https://nhentai.net/g/464173/"
+        ]
       }
     }
   }
